@@ -32,7 +32,7 @@ My background is in **Accounting**, which gives me an edge in understanding the 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ParnazAli&theme=dark&background=0D1117&stroke=C9A6F5&ring=C9A6F5&fire=F5C6D6&currStreakLabel=C9A6F5)](https://github.com/ParnazAli)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParnazAli&theme=react-dark&bg_color=0D1117&color=C9A6F5&line=F5C6D6&point=ffffff)](https://github.com/ParnazAli)
+![Activity Graph](https://raw.githubusercontent.com/ParnazAli/ParnazAli/output/activity-graph.svg)
 
 ---
 
