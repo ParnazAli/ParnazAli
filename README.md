@@ -30,7 +30,7 @@ My background is in **Accounting**, which gives me an edge in understanding the 
 
 ### 📊 Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnazAli&theme=dark&background=0D1117&stroke=C9A6F5&ring=C9A6F5&fire=F5C6D6&currStreakLabel=C9A6F5)](https://github.com/ParnazAli)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ParnazAli&theme=dark&background=0D1117&stroke=C9A6F5&ring=C9A6F5&fire=F5C6D6&currStreakLabel=C9A6F5)](https://github.com/ParnazAli)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParnazAli&theme=react-dark&bg_color=0D1117&color=C9A6F5&line=F5C6D6&point=ffffff)](https://github.com/ParnazAli)
 
@@ -39,4 +39,3 @@ My background is in **Accounting**, which gives me an edge in understanding the 
 ### 🤝 Let's connect
 
 [![Email](https://img.shields.io/badge/Email-F5C6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parnazali1383@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-C9A6F5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itisparnaz)
