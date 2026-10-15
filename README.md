@@ -1,33 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5C6D6,100:C9A6F5&height=180&section=header&text=Hi,%20I'm%20Parnaz%20%F0%9F%8E%80&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
-
+<h1 align="center">Parnaz Ali</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=C9A6F5&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%92%97;BI+Specialist+%F0%9F%8C%B8;Turning+Data+into+Decisions+%E2%9C%A8" alt="Typing SVG" />
+  <b>Data Analyst & Business Intelligence Specialist</b><br>
+  Accounting background · Business Analytics focus
 </p>
 
-### 💗 About me
-
-I turn raw business data into dashboards people actually use to make decisions. I currently work as a **Data Analyst & Business Intelligence Specialist**, building dashboards and reporting across **sales, finance, procurement, and production**.
-
-My background is in **Accounting**, which gives me an edge in understanding the *business* side of the numbers, not just the technical side — and I'm now working toward a Master's in **Business Analytics** to deepen that even further.
-
-### 🌸 Currently
-
-- 💼 Building and maintaining dashboards for multiple business functions (sales, finance, procurement, production)
-- 📚 Applying to Master's programs in Business Analytics
-- 📎 Publishing my data & BI projects — check them out below
-
-### 🧰 Tech Stack
-![SQL](https://img.shields.io/badge/SQL-C9A6F5?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F5A6C6?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-A6D6F5?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F5D6A6?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="center">
+  <a href="mailto:parnazali1383@gmail.com">Email</a> ·
+  <a href="[LINKEDIN_URL]">LinkedIn</a> ·
+  <a href="[CV_OR_PORTFOLIO_URL]">CV</a>
+</p>
 
 ---
 
-📌 *Pinned below — some of my favorite data & BI projects.*
+## About
 
----
+I turn raw business data into dashboards that decision-makers actually use. I build reporting across **sales, finance, procurement, and production**, and my accounting background lets me connect the numbers to the business logic behind them.
 
-### 🤝 Let's connect
+I'm interested in the intersection of **business intelligence, financial analytics, and data-driven decision making**.
 
-[![Email](https://img.shields.io/badge/Email-F5C6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parnazali1383@gmail.com)
+## Technical Skills
+
+| | |
+|---|---|
+| **Financial Analysis & Reporting** | Advanced Excel (financial data analysis, advanced formulas, PivotTables), cash-flow reporting, financial dashboards and KPI reporting, Power BI, DAX, Power Query (M) |
+| **Investment & Risk Analysis** | Mean-variance portfolio optimisation, Value at Risk (VaR), Conditional Value at Risk (CVaR), Sharpe and Sortino ratios, portfolio performance evaluation |
+| **Statistical Analysis** | Python (pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn), hypothesis testing, OLS and logistic regression with robust standard errors, correlation analysis |
+| **Databases & Integration** | SQL (T-SQL, PostgreSQL, SQL Server), SSIS, SSAS |
+| **Machine Learning** | XGBoost, K-Means clustering, SHAP |
+
+## Selected Projects
+
+| Project | Problem | Tools | Outcome |
+|---|---|---|---|
+| [**Project name**](PROJECT_LINK) | [One-line business question] | Power BI, SQL | [Measurable result or insight] |
+| [**Project name**](PROJECT_LINK) | [One-line business question] | Python, Excel | [Measurable result or insight] |
+| [**Project name**](PROJECT_LINK) | [One-line business question] | SQL, Power BI | [Measurable result or insight] |
+
+## Background
+
+- **Current role:** Data Analyst & BI Specialist, building and maintaining cross-functional dashboards and reporting
+- **Education:** [Bachelor's in Accounting, University, Year]
+- **Research interests:** [e.g., financial analytics, forecasting, decision support]
