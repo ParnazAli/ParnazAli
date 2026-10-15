@@ -28,14 +28,6 @@ My background is in **Accounting**, which gives me an edge in understanding the 
 
 ---
 
-### 📊 Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ParnazAli&theme=dark&background=0D1117&stroke=C9A6F5&ring=C9A6F5&fire=F5C6D6&currStreakLabel=C9A6F5)](https://github.com/ParnazAli)
-
-![Activity Graph](https://raw.githubusercontent.com/ParnazAli/ParnazAli/output/activity-graph.svg)
-
----
-
 ### 🤝 Let's connect
 
 [![Email](https://img.shields.io/badge/Email-F5C6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parnazali1383@gmail.com)
