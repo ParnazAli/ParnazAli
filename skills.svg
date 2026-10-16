@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="100%" role="img" aria-label="Technical skills dashboard">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b2040"/>
+      <stop offset="100%" stop-color="#1a1327"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5C6D6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#C9A6F5" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5C6D6"/>
+      <stop offset="100%" stop-color="#C9A6F5"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <style>
+      .t{font:700 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#F5C6D6}
+      .c{fill:#C9A6F5;fill-opacity:.12;stroke:#C9A6F5;stroke-opacity:.45;stroke-width:1}
+      .k{fill:#F5C6D6;fill-opacity:.2;stroke:#F5C6D6;stroke-opacity:.8;stroke-width:1}
+      .x{font:11px 'Fira Code',Consolas,'Courier New',monospace;fill:#f5eefc;text-anchor:middle}
+    </style>
+  </defs>
+
+  <!-- ===== Card 1: Financial Analysis & Reporting ===== -->
+  <g transform="translate(10 10)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <rect width="310" height="150" rx="14" fill="url(#card)" stroke="url(#edge)" stroke-width="1.2"/>
+    <rect width="310" height="150" rx="14" fill="url(#grid)"/>
+    <g transform="translate(16 12)">
+      <rect x="2" y="12" width="5" height="10" rx="1.5" fill="#F5C6D6"/>
+      <rect x="9.5" y="6" width="5" height="16" rx="1.5" fill="#C9A6F5"/>
+      <rect x="17" y="1" width="5" height="21" rx="1.5" fill="#ffffff"/>
+    </g>
+    <text class="t" x="48" y="30">Financial Analysis &amp; Reporting</text>
+    <rect class="k" x="16" y="52" width="108" height="22" rx="11"/><text class="x" x="70" y="67">Advanced Excel</text>
+    <rect class="k" x="130" y="52" width="89" height="22" rx="11"/><text class="x" x="174.5" y="67">PivotTables</text>
+    <rect class="k" x="16" y="80" width="69" height="22" rx="11"/><text class="x" x="50.5" y="95">Power BI</text>
+    <rect class="k" x="91" y="80" width="36" height="22" rx="11"/><text class="x" x="109" y="95">DAX</text>
+    <rect class="k" x="133" y="80" width="115" height="22" rx="11"/><text class="x" x="190.5" y="95">Power Query (M)</text>
+    <rect class="c" x="16" y="108" width="141" height="22" rx="11"/><text class="x" x="86.5" y="123">Cash-flow reporting</text>
+    <rect class="c" x="163" y="108" width="108" height="22" rx="11"/><text class="x" x="217" y="123">KPI dashboards</text>
+  </g>
+
+  <!-- ===== Card 2: Investment & Risk Analysis ===== -->
+  <g transform="translate(345 10)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.3s" fill="freeze"/>
+    <rect width="310" height="150" rx="14" fill="url(#card)" stroke="url(#edge)" stroke-width="1.2"/>
+    <rect width="310" height="150" rx="14" fill="url(#grid)"/>
+    <g transform="translate(16 12)">
+      <path d="M2 19 L9 12 L14 16 L22 5" fill="none" stroke="#F5C6D6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="22" cy="5" r="2.4" fill="#ffffff"/>
+    </g>
+    <text class="t" x="48" y="30">Investment &amp; Risk Analysis</text>
+    <rect class="c" x="16" y="52" width="188" height="22" rx="11"/><text class="x" x="110" y="67">Mean-variance optimisation</text>
+    <rect class="k" x="210" y="52" width="36" height="22" rx="11"/><text class="x" x="228" y="67">VaR</text>
+    <rect class="k" x="252" y="52" width="42" height="22" rx="11"/><text class="x" x="273" y="67">CVaR</text>
+    <rect class="k" x="16" y="80" width="56" height="22" rx="11"/><text class="x" x="44" y="95">Sharpe</text>
+    <rect class="k" x="78" y="80" width="62" height="22" rx="11"/><text class="x" x="109" y="95">Sortino</text>
+    <rect class="c" x="16" y="108" width="227" height="22" rx="11"/><text class="x" x="129.5" y="123">Portfolio performance evaluation</text>
+  </g>
+
+  <!-- ===== Card 3: Databases & Integration ===== -->
+  <g transform="translate(680 10)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.5s" fill="freeze"/>
+    <rect width="310" height="150" rx="14" fill="url(#card)" stroke="url(#edge)" stroke-width="1.2"/>
+    <rect width="310" height="150" rx="14" fill="url(#grid)"/>
+    <g transform="translate(16 12)" fill="none" stroke-width="2" stroke-linecap="round">
+      <ellipse cx="12" cy="5" rx="9" ry="3.5" stroke="#F5C6D6"/>
+      <path d="M3 5 V19 C3 21 7 22.5 12 22.5 C17 22.5 21 21 21 19 V5" stroke="#C9A6F5"/>
+      <path d="M3 12 C3 14 7 15.5 12 15.5 C17 15.5 21 14 21 12" stroke="#C9A6F5"/>
+    </g>
+    <text class="t" x="48" y="30">Databases &amp; Integration</text>
+    <rect class="k" x="16" y="52" width="36" height="22" rx="11"/><text class="x" x="34" y="67">SQL</text>
+    <rect class="c" x="58" y="52" width="49" height="22" rx="11"/><text class="x" x="82.5" y="67">T-SQL</text>
+    <rect class="c" x="113" y="52" width="82" height="22" rx="11"/><text class="x" x="154" y="67">PostgreSQL</text>
+    <rect class="c" x="201" y="52" width="82" height="22" rx="11"/><text class="x" x="242" y="67">SQL Server</text>
+    <rect class="k" x="16" y="80" width="42" height="22" rx="11"/><text class="x" x="37" y="95">SSIS</text>
+    <rect class="k" x="64" y="80" width="42" height="22" rx="11"/><text class="x" x="85" y="95">SSAS</text>
+    <!-- mini star schema -->
+    <g opacity="0.9">
+      <g stroke="#C9A6F5" stroke-opacity="0.6" stroke-width="1.2">
+        <line x1="220" y1="108" x2="165" y2="89"/>
+        <line x1="220" y1="108" x2="165" y2="129"/>
+        <line x1="220" y1="108" x2="275" y2="89"/>
+        <line x1="220" y1="108" x2="275" y2="129"/>
+      </g>
+      <rect x="150" y="82" width="30" height="14" rx="3" fill="#C9A6F5" fill-opacity="0.4"/>
+      <rect x="150" y="122" width="30" height="14" rx="3" fill="#C9A6F5" fill-opacity="0.4"/>
+      <rect x="260" y="82" width="30" height="14" rx="3" fill="#C9A6F5" fill-opacity="0.4"/>
+      <rect x="260" y="122" width="30" height="14" rx="3" fill="#C9A6F5" fill-opacity="0.4"/>
+      <rect x="200" y="96" width="40" height="24" rx="4" fill="#F5C6D6"/>
+    </g>
+  </g>
+
+  <!-- ===== Card 4: Statistical Analysis ===== -->
+  <g transform="translate(10 175)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.7s" fill="freeze"/>
+    <rect width="485" height="150" rx="14" fill="url(#card)" stroke="url(#edge)" stroke-width="1.2"/>
+    <rect width="485" height="150" rx="14" fill="url(#grid)"/>
+    <g transform="translate(16 12)" fill="none" stroke-linecap="round">
+      <path d="M1 21 C6 21 7 3 12 3 C17 3 18 21 23 21" stroke="#F5C6D6" stroke-width="2.2"/>
+      <line x1="1" y1="21.5" x2="23" y2="21.5" stroke="#C9A6F5" stroke-width="1.5" stroke-opacity="0.7"/>
+    </g>
+    <text class="t" x="48" y="30">Statistical Analysis</text>
+    <rect class="k" x="16" y="52" width="56" height="22" rx="11"/><text class="x" x="44" y="67">Python</text>
+    <rect class="c" x="78" y="52" width="56" height="22" rx="11"/><text class="x" x="106" y="67">pandas</text>
+    <rect class="c" x="140" y="52" width="49" height="22" rx="11"/><text class="x" x="164.5" y="67">NumPy</text>
+    <rect class="c" x="195" y="52" width="49" height="22" rx="11"/><text class="x" x="219.5" y="67">SciPy</text>
+    <rect class="c" x="250" y="52" width="89" height="22" rx="11"/><text class="x" x="294.5" y="67">statsmodels</text>
+    <rect class="c" x="345" y="52" width="82" height="22" rx="11"/><text class="x" x="386" y="67">Matplotlib</text>
+    <rect class="c" x="16" y="80" width="62" height="22" rx="11"/><text class="x" x="47" y="95">Seaborn</text>
+    <rect class="k" x="84" y="80" width="135" height="22" rx="11"/><text class="x" x="151.5" y="95">Hypothesis testing</text>
+    <rect class="c" x="225" y="80" width="148" height="22" rx="11"/><text class="x" x="299" y="95">Correlation analysis</text>
+    <rect class="k" x="16" y="108" width="267" height="22" rx="11"/><text class="x" x="149.5" y="123">OLS &amp; logistic regression (robust SEs)</text>
+  </g>
+
+  <!-- ===== Card 5: Machine Learning ===== -->
+  <g transform="translate(505 175)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9s" fill="freeze"/>
+    <rect width="485" height="150" rx="14" fill="url(#card)" stroke="url(#edge)" stroke-width="1.2"/>
+    <rect width="485" height="150" rx="14" fill="url(#grid)"/>
+    <g transform="translate(16 12)">
+      <g stroke="#C9A6F5" stroke-width="1.8" stroke-linecap="round">
+        <line x1="4" y1="6" x2="12" y2="12"/>
+        <line x1="4" y1="18" x2="12" y2="12"/>
+        <line x1="12" y1="12" x2="20" y2="12"/>
+      </g>
+      <circle cx="4" cy="6" r="2.8" fill="#F5C6D6"/>
+      <circle cx="4" cy="18" r="2.8" fill="#C9A6F5"/>
+      <circle cx="12" cy="12" r="2.8" fill="#ffffff"/>
+      <circle cx="20" cy="12" r="2.8" fill="#F5C6D6"/>
+    </g>
+    <text class="t" x="48" y="30">Machine Learning</text>
+    <rect class="k" x="16" y="52" width="62" height="22" rx="11"/><text class="x" x="47" y="67">XGBoost</text>
+    <rect class="k" x="84" y="52" width="62" height="22" rx="11"/><text class="x" x="115" y="67">K-Means</text>
+    <rect class="k" x="152" y="52" width="42" height="22" rx="11"/><text class="x" x="173" y="67">SHAP</text>
+
+    <!-- SHAP-style importance bars -->
+    <rect x="16" y="88" width="0" height="7" rx="3.5" fill="url(#bar)"><animate attributeName="width" from="0" to="160" dur="1s" begin="1.3s" fill="freeze"/></rect>
+    <rect x="16" y="100" width="0" height="7" rx="3.5" fill="url(#bar)"><animate attributeName="width" from="0" to="118" dur="1s" begin="1.4s" fill="freeze"/></rect>
+    <rect x="16" y="112" width="0" height="7" rx="3.5" fill="url(#bar)"><animate attributeName="width" from="0" to="84" dur="1s" begin="1.5s" fill="freeze"/></rect>
+    <rect x="16" y="124" width="0" height="7" rx="3.5" fill="url(#bar)"><animate attributeName="width" from="0" to="50" dur="1s" begin="1.6s" fill="freeze"/></rect>
+
+    <!-- K-Means style clusters -->
+    <g fill="none" stroke-dasharray="3 3" stroke-opacity="0.5" stroke-width="1">
+      <ellipse cx="320" cy="95" rx="26" ry="24" stroke="#F5C6D6"/>
+      <ellipse cx="395" cy="72" rx="28" ry="22" stroke="#C9A6F5"/>
+      <ellipse cx="410" cy="112" rx="24" ry="20" stroke="#ffffff"/>
+    </g>
+    <g fill="#F5C6D6">
+      <circle cx="308" cy="89" r="3.5"/><circle cx="316" cy="103" r="3.5"/><circle cx="328" cy="85" r="3.5"/>
+      <circle cx="330" cy="99" r="3.5"/><circle cx="312" cy="81" r="3.5"/><circle cx="334" cy="107" r="3.5"/><circle cx="320" cy="95" r="3.5"/>
+    </g>
+    <g fill="#C9A6F5">
+      <circle cx="385" cy="76" r="3.5"/><circle cx="401" cy="64" r="3.5"/><circle cx="407" cy="78" r="3.5"/>
+      <circle cx="391" cy="66" r="3.5"/><circle cx="395" cy="82" r="3.5"/><circle cx="409" cy="70" r="3.5"/><circle cx="381" cy="64" r="3.5"/>
+    </g>
+    <g fill="#ffffff">
+      <circle cx="402" cy="108" r="3.5"/><circle cx="416" cy="118" r="3.5"/><circle cx="420" cy="104" r="3.5"/>
+      <circle cx="406" cy="120" r="3.5"/><circle cx="410" cy="112" r="3.5"/><circle cx="424" cy="114" r="3.5"/>
+    </g>
+  </g>
+</svg>
