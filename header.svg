@@ -22,7 +22,6 @@
     <rect width="1000" height="260" fill="url(#bg)"/>
     <rect width="1000" height="260" fill="url(#grid)"/>
 
-    <!-- chart (lower part) -->
     <path d="M0 240 L80 230 L160 235 L240 215 L320 222 L400 200 L480 207 L560 188 L640 196 L720 172 L800 180 L880 158 L1000 150 L1000 260 L0 260 Z" fill="url(#area)"/>
 
     <g stroke-width="2" stroke-linecap="round">
@@ -48,8 +47,17 @@
     </path>
     <circle cx="995" cy="150" r="5" fill="#ffffff"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.9;1" dur="2.5s" fill="freeze"/></circle>
 
-    <!-- text (upper part) -->
-    <text x="50%" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff" filter="url(#shadow)">Hi, I'm Parnaz 📊</text>
+    <!-- title -->
+    <text x="470" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff" filter="url(#shadow)">Hi, I'm Parnaz</text>
+
+    <!-- custom bar-chart icon -->
+    <g filter="url(#shadow)" transform="translate(720 44)">
+      <rect x="0" y="22" width="12" height="18" rx="3" fill="#F5C6D6"/>
+      <rect x="18" y="12" width="12" height="28" rx="3" fill="#C9A6F5"/>
+      <rect x="36" y="0" width="12" height="40" rx="3" fill="#ffffff"/>
+      <path d="M-2 14 L22 4 L34 -4" fill="none" stroke="#ffffff" stroke-opacity="0.0"/>
+    </g>
+
     <text x="50%" y="120" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#F5C6D6" letter-spacing="2" filter="url(#shadow)">DATA ANALYST · BI SPECIALIST · FINANCIAL ANALYTICS</text>
   </g>
 </svg>
