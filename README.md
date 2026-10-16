@@ -13,7 +13,6 @@ My background in **Accounting** lets me understand the *business logic* behind t
 ### 🌸 What I do
 
 - 📊 Design and maintain **20+ interactive Power BI dashboards** (SQL, DAX, Power Query, SSIS, SSAS), replacing manual Excel reporting with automated, real-time dashboards used across the organization
-- 🤝 Act as the main liaison between the data team, finance, and department managers, translating business data into insights for management decision-making
 - 🧮 Develop machine learning models in Python for **sales forecasting**, enabling a shift from experience-based to data-driven sales planning
 - 📈 Build quantitative models for portfolio and risk analysis (mean-variance optimisation, VaR/CVaR, Sharpe, Sortino) with backtesting against the S&P 500
 - 🔬 Conduct statistical research with **XGBoost, SHAP, and K-Means** on survey data of 1,276 respondents
