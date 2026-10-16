@@ -19,20 +19,7 @@ My background in **Accounting** lets me understand the *business logic* behind t
 
 ### 🧰 Technical Skills
 
-| | |
-|---|---|
-| 📊 **Financial Analysis & Reporting** | `Advanced Excel` · `PivotTables` · `Power BI` · `DAX` · `Power Query (M)` · Cash-flow reporting · KPI dashboards |
-| 💹 **Investment & Risk Analysis** | `Mean-variance optimisation` · `VaR` · `CVaR` · `Sharpe` · `Sortino` · Portfolio performance evaluation |
-| 📐 **Statistical Analysis** | `Python` (pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn) · Hypothesis testing · OLS & logistic regression with robust standard errors · Correlation analysis |
-| 🗄️ **Databases & Integration** | `SQL` (T-SQL, PostgreSQL, SQL Server) · `SSIS` · `SSAS` |
-| 🤖 **Machine Learning** | `XGBoost` · `K-Means` · `SHAP` |
-
-### 🛠️ Core Tools
-
-![SQL](https://img.shields.io/badge/SQL-C9A6F5?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F5A6C6?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-A6D6F5?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F5D6A6?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/skills.svg?v=1" alt="Technical skills: Financial Analysis & Reporting (Advanced Excel, PivotTables, Power BI, DAX, Power Query), Investment & Risk Analysis (mean-variance optimisation, VaR, CVaR, Sharpe, Sortino), Databases & Integration (SQL, T-SQL, PostgreSQL, SQL Server, SSIS, SSAS), Statistical Analysis (Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn, hypothesis testing, OLS and logistic regression), Machine Learning (XGBoost, K-Means, SHAP)" width="100%" />
 
 ---
 
