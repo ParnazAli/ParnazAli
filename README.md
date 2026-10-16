@@ -19,7 +19,7 @@ My background in **Accounting** lets me understand the *business logic* behind t
 
 ### 🧰 Technical Skills
 
-<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/skills.svg?v=1" alt="Technical skills: Financial Analysis & Reporting (Advanced Excel, PivotTables, Power BI, DAX, Power Query), Investment & Risk Analysis (mean-variance optimisation, VaR, CVaR, Sharpe, Sortino), Databases & Integration (SQL, T-SQL, PostgreSQL, SQL Server, SSIS, SSAS), Statistical Analysis (Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn, hypothesis testing, OLS and logistic regression), Machine Learning (XGBoost, K-Means, SHAP)" width="100%" />
+<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/skills.svg?v=2" alt="Technical skills: Financial Analysis & Reporting (Advanced Excel, PivotTables, Power BI, DAX, Power Query), Investment & Risk Analysis (mean-variance optimisation, VaR, CVaR, Sharpe, Sortino), Databases & Integration (SQL, T-SQL, PostgreSQL, SQL Server, SSIS, SSAS), Statistical Analysis (Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn, hypothesis testing, OLS and logistic regression, Git), Machine Learning (XGBoost, K-Means, SHAP)" width="100%" />
 
 ---
 
