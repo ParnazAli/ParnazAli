@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/header.svg" alt="Hi, I'm Parnaz" width="100%" />
+<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/header.svg?v=6" alt="Hi, I'm Parnaz" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=C9A6F5&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%92%97;BI+Specialist+%F0%9F%8C%B8;Turning+Data+into+Decisions+%E2%9C%A8" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 I turn raw business data into dashboards that decision-makers actually use. I work as a **Data Analyst & Business Intelligence Specialist**, building reporting across **sales, finance, procurement, and production**.
 
-My background in **Accounting** lets me understand the *business logic* behind the numbers, not just the technical side. I'm especially interested in **financial analytics, risk modelling, and data-driven decision making**.
+My background in **Accounting** lets me understand the *business logic* behind the numbers, not just the technical side. I'm motivated by using data to support better business and financial decisions.
 
 ### 🌸 What I do
 
