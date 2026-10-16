@@ -29,4 +29,6 @@ My background in **Accounting** lets me understand the *business logic* behind t
 
 ### 🤝 Let's connect
 
-[![Email](https://img.shields.io/badge/Email-F5C6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parnazali1383@gmail.com)
+<a href="mailto:parnazali1383@gmail.com">
+  <img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/connect.svg?v=1" alt="Let's talk data: parnazali1383@gmail.com" width="100%" />
+</a>
