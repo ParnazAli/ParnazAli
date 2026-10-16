@@ -114,6 +114,7 @@
     <rect class="k" x="84" y="80" width="135" height="22" rx="11"/><text class="x" x="151.5" y="95">Hypothesis testing</text>
     <rect class="c" x="225" y="80" width="148" height="22" rx="11"/><text class="x" x="299" y="95">Correlation analysis</text>
     <rect class="k" x="16" y="108" width="267" height="22" rx="11"/><text class="x" x="149.5" y="123">OLS &amp; logistic regression (robust SEs)</text>
+    <rect class="k" x="289" y="108" width="42" height="22" rx="11"/><text class="x" x="310" y="123">Git</text>
   </g>
 
   <!-- ===== Card 5: Machine Learning ===== -->
