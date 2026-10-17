@@ -23,12 +23,12 @@ My background in **Accounting** lets me understand the *business logic* behind t
 
 ---
 
-📌 *Pinned below: some of my favorite data & BI projects.*
-
----
-
 ### 🤝 Let's connect
 
 <a href="mailto:parnazali1383@gmail.com">
   <img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/connect.svg?v=1" alt="Let's talk data: parnazali1383@gmail.com" width="100%" />
 </a>
+
+---
+
+📌 *Pinned below: some of my favorite data & BI projects.*
