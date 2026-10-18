@@ -12,10 +12,7 @@ My background in **Accounting** lets me understand the *business logic* behind t
 
 ### 🌸 What I do
 
-- 📊 Design and maintain **20+ interactive Power BI dashboards** (SQL, DAX, Power Query, SSIS, SSAS), replacing manual Excel reporting with automated, real-time dashboards used across the organization
-- 🧮 Develop machine learning models in Python for **sales forecasting**, enabling a shift from experience-based to data-driven sales planning
-- 📈 Build quantitative models for portfolio and risk analysis (mean-variance optimisation, VaR/CVaR, Sharpe, Sortino) with backtesting against the S&P 500
-- 🔬 Conduct statistical research with **XGBoost, SHAP, and K-Means** on survey data of 1,276 respondents
+<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/what-i-do.svg?v=1" alt="What I do: 20+ interactive Power BI dashboards (SQL, DAX, Power Query, SSIS, SSAS) replacing manual Excel reporting; machine learning models in Python for sales forecasting; quantitative portfolio and risk models (mean-variance optimisation, VaR/CVaR, Sharpe, Sortino) backtested against the S&P 500; statistical research with XGBoost, SHAP and K-Means on survey data of 1,276 respondents." width="100%" />
 
 ### 🧰 Technical Skills
 
