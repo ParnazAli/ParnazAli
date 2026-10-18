@@ -6,9 +6,7 @@
 
 ### 💗 About me
 
-I turn raw business data into dashboards that decision-makers actually use. I work as a **Data Analyst & Business Intelligence Specialist**, building reporting across **sales, finance, procurement, and production**.
-
-My background in **Accounting** lets me understand the *business logic* behind the numbers, not just the technical side. I'm motivated by using data to support better business and financial decisions.
+<img src="https://raw.githubusercontent.com/ParnazAli/ParnazAli/main/about-me.svg?v=1" alt="About me: I turn raw business data into dashboards that decision-makers actually use. I work as a Data Analyst & Business Intelligence Specialist, building reporting across sales, finance, procurement, and production. My background in Accounting lets me understand the business logic behind the numbers, not just the technical side. I'm motivated by using data to support better business and financial decisions." width="100%" />
 
 ### 🌸 What I do
 
